@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SantiagoTenorio
 - 👀 I’m interested in web development and cloud services
 - 🌱 I’m currently learning azure services and web development
-- 💞️ I’m looking to collaborate on open source projects 
+- 💞️ I’m looking to collaborate on web development
 - 📫 Check out my personal portfolio website to reach me out
 
 <!---
