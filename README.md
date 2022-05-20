@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and cloud services
 - 🌱 I’m currently learning azure services and web development
 - 💞️ I’m looking to collaborate on web development
-- 📫 Check out my personal portfolio website to reach me out
+- 📫 Reach me out here! https://santiagotenorio.github.io/PersonalPortfolio/
 
 <!---
 SantiagoTenorio/SantiagoTenorio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
